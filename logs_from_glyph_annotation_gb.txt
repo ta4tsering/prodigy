@@ -1,0 +1,496 @@
+-- Journal begins at Sun 2023-08-06 16:24:14 UTC, ends at Tue 2023-08-08 05:38:55 UTC. --
+Aug 06 17:45:51 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.50:0 - "GET /?session=tenphuns@gmail.com HTTP/1.1" 200 OK
+Aug 06 17:45:51 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.86:0 - "GET /bundle.js HTTP/1.1" 200 OK
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: 17:45:54: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: 17:45:54: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: 17:45:54: DB: Initializing database SQLite
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: 17:45:54: DB: Connecting to database SQLite
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "GET /project/tenphuns%40gmail.com HTTP/1.1" 200 OK
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:     172.70.219.138:0 - "GET /lato-regular.woff2 HTTP/1.1" 200 OK
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.52:0 - "GET /lato-bold.woff2 HTTP/1.1" 200 OK
+Aug 06 17:45:54 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.8:0 - "GET /robotocondensed-bold.woff2 HTTP/1.1" 200 OK
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: DB: Initializing database SQLite
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: DB: Connecting to database SQLite
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: POST: /get_session_questions
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /get_session_questions
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: RESPONSE: /get_session_questions (10 examples)
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /get_session_questions (10 examples)
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: 17:45:55: {'tasks': [{'id': 'དྲ_38.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_38.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=gw9Vcu%2BuRFCVgd68OhL2ugelevc%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -433637408, '_task_hash': 1874136402, '_view_id': 'blocks'}, {'id': 'དྲ_39.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_39.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=by0QomYv67XI4jqx%2FWT2iI6xfsQ%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -87090050, '_task_hash': 68263114, '_view_id': 'blocks'}, {'id': 'དྲ_4.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_4.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=8wMor6vtlJksjuyWvjozIP0Dr%2B8%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 702109464, '_task_hash': 1624987468, '_view_id': 'blocks'}, {'id': 'དྲ_40.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_40.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=liC1hppT2PVNpGufhdpOz1N5mkw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1299923069, '_task_hash': -777618735, '_view_id': 'blocks'}, {'id': 'དྲ_41.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_41.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=ArxebiSFFPmdaljLQDde%2F7uGxOM%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1211081688, '_task_hash': 260014582, '_view_id': 'blocks'}, {'id': 'དྲ_42.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_42.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=e73xHkvCwApzZLu3S0DE9u%2BHm0c%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 184421287, '_task_hash': -1170180476, '_view_id': 'blocks'}, {'id': 'དྲ_43.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_43.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=bxIKSK6VE1ycgn7zCEAs9lFEYr4%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1948515816, '_task_hash': -1954531018, '_view_id': 'blocks'}, {'id': 'དྲ_44.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_44.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=VE0iMVKGPS0HzZxxKoD7TQCKriw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 842950747, '_task_hash': -1707863405, '_view_id': 'blocks'}, {'id': 'དྲ_45.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_45.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=NdMJuNJ%2FFOIQQNgEj3esIKufkew%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1708009725, '_task_hash': -1110093665, '_view_id': 'blocks'}, {'id': 'དྲ_46.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_46.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EycFlY2ynx%2BbQ8L8VcUtbiK%2BzgI%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1723115088, '_task_hash': -1125060543, '_view_id': 'blocks'}], 'total': 3002, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'tasks': [{'id': 'དྲ_38.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_38.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=gw9Vcu%2BuRFCVgd68OhL2ugelevc%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -433637408, '_task_hash': 1874136402, '_view_id': 'blocks'}, {'id': 'དྲ_39.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_39.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=by0QomYv67XI4jqx%2FWT2iI6xfsQ%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -87090050, '_task_hash': 68263114, '_view_id': 'blocks'}, {'id': 'དྲ_4.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_4.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=8wMor6vtlJksjuyWvjozIP0Dr%2B8%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 702109464, '_task_hash': 1624987468, '_view_id': 'blocks'}, {'id': 'དྲ_40.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_40.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=liC1hppT2PVNpGufhdpOz1N5mkw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1299923069, '_task_hash': -777618735, '_view_id': 'blocks'}, {'id': 'དྲ_41.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_41.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=ArxebiSFFPmdaljLQDde%2F7uGxOM%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1211081688, '_task_hash': 260014582, '_view_id': 'blocks'}, {'id': 'དྲ_42.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_42.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=e73xHkvCwApzZLu3S0DE9u%2BHm0c%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 184421287, '_task_hash': -1170180476, '_view_id': 'blocks'}, {'id': 'དྲ_43.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_43.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=bxIKSK6VE1ycgn7zCEAs9lFEYr4%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1948515816, '_task_hash': -1954531018, '_view_id': 'blocks'}, {'id': 'དྲ_44.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_44.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=VE0iMVKGPS0HzZxxKoD7TQCKriw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 842950747, '_task_hash': -1707863405, '_view_id': 'blocks'}, {'id': 'དྲ_45.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_45.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=NdMJuNJ%2FFOIQQNgEj3esIKufkew%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1708009725, '_task_hash': -1110093665, '_view_id': 'blocks'}, {'id': 'དྲ_46.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_46.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EycFlY2ynx%2BbQ8L8VcUtbiK%2BzgI%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1723115088, '_task_hash': -1125060543, '_view_id': 'blocks'}], 'total': 3002, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:45:55 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: DB: Initializing database SQLite
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: DB: Connecting to database SQLite
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: [{'id': 'དྲ_38.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_38.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=gw9Vcu%2BuRFCVgd68OhL2ugelevc%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -433637408, '_task_hash': 1874136402, '_view_id': 'blocks', 'width': 83, 'height': 217, 'spans': [{'id': '0895c79b-7740-436e-a1a7-f958ae033922', 'label': 'Base Line', 'color': 'yellow', 'x': 36.5, 'y': 79, 'height': 30, 'width': 29, 'center': [51, 94], 'type': 'rect', 'points': [[36.5, 79], [36.5, 109], [65.5, 109], [65.5, 79]]}, {'id': 'a8fc7a2f-8e24-4070-89c6-df50d4ff1bc9', 'label': 'Glyph', 'color': 'cyan', 'points': [[24.5, 104], [33.5, 82], [31.5, 68], [69.5, 69], [64.5, 98], [64.5, 110], [75.5, 166], [50.5, 161], [29.5, 143], [36.5, 128]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_38.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_38.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=gw9Vcu%2BuRFCVgd68OhL2ugelevc%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -433637408, '_task_hash': 1874136402, '_view_id': 'blocks', 'width': 83, 'height': 217, 'spans': [{'id': '0895c79b-7740-436e-a1a7-f958ae033922', 'label': 'Base Line', 'color': 'yellow', 'x': 36.5, 'y': 79, 'height': 30, 'width': 29, 'center': [51, 94], 'type': 'rect', 'points': [[36.5, 79], [36.5, 109], [65.5, 109], [65.5, 79]]}, {'id': 'a8fc7a2f-8e24-4070-89c6-df50d4ff1bc9', 'label': 'Glyph', 'color': 'cyan', 'points': [[24.5, 104], [33.5, 82], [31.5, 68], [69.5, 69], [64.5, 98], [64.5, 110], [75.5, 166], [50.5, 161], [29.5, 143], [36.5, 128]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: CONTROLLER: Receiving 1 answers
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: DB: Added 1 examples to 2 datasets
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: RESPONSE: /give_answers
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: 17:46:41: {'progress': None}
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:46:41 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: DB: Initializing database SQLite
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: DB: Connecting to database SQLite
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: [{'id': 'དྲ_39.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_39.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=by0QomYv67XI4jqx%2FWT2iI6xfsQ%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -87090050, '_task_hash': 68263114, '_view_id': 'blocks', 'width': 104, 'height': 231, 'spans': [{'id': 'b55a34db-e4bc-431b-a196-028352433b37', 'label': 'Base Line', 'color': 'yellow', 'x': 38, 'y': 96, 'height': 11, 'width': 23, 'center': [49.5, 101.5], 'type': 'rect', 'points': [[38, 96], [38, 107], [61, 107], [61, 96]]}], 'answer': 'ignore'}]
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_39.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_39.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=by0QomYv67XI4jqx%2FWT2iI6xfsQ%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -87090050, '_task_hash': 68263114, '_view_id': 'blocks', 'width': 104, 'height': 231, 'spans': [{'id': 'b55a34db-e4bc-431b-a196-028352433b37', 'label': 'Base Line', 'color': 'yellow', 'x': 38, 'y': 96, 'height': 11, 'width': 23, 'center': [49.5, 101.5], 'type': 'rect', 'points': [[38, 96], [38, 107], [61, 107], [61, 96]]}], 'answer': 'ignore'}]
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: CONTROLLER: Receiving 1 answers
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: DB: Added 1 examples to 2 datasets
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: RESPONSE: /give_answers
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: 17:46:50: {'progress': None}
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:46:50 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: DB: Initializing database SQLite
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: DB: Connecting to database SQLite
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: [{'id': 'དྲ_4.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_4.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=8wMor6vtlJksjuyWvjozIP0Dr%2B8%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 702109464, '_task_hash': 1624987468, '_view_id': 'blocks', 'width': 104, 'height': 245, 'spans': [{'id': '213fa805-3998-4a4b-8cf5-2162ef96cfac', 'label': 'Base Line', 'color': 'yellow', 'x': 38, 'y': 106, 'height': 25, 'width': 33, 'center': [54.5, 118.5], 'type': 'rect', 'points': [[38, 106], [38, 131], [71, 131], [71, 106]]}, {'id': '936c41f2-966c-40f9-971b-49b603753d15', 'label': 'Glyph', 'color': 'cyan', 'points': [[31, 141], [35, 100], [73, 97], [74, 129], [88, 184], [34, 168]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_4.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_4.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=8wMor6vtlJksjuyWvjozIP0Dr%2B8%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 702109464, '_task_hash': 1624987468, '_view_id': 'blocks', 'width': 104, 'height': 245, 'spans': [{'id': '213fa805-3998-4a4b-8cf5-2162ef96cfac', 'label': 'Base Line', 'color': 'yellow', 'x': 38, 'y': 106, 'height': 25, 'width': 33, 'center': [54.5, 118.5], 'type': 'rect', 'points': [[38, 106], [38, 131], [71, 131], [71, 106]]}, {'id': '936c41f2-966c-40f9-971b-49b603753d15', 'label': 'Glyph', 'color': 'cyan', 'points': [[31, 141], [35, 100], [73, 97], [74, 129], [88, 184], [34, 168]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: CONTROLLER: Receiving 1 answers
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: DB: Added 1 examples to 2 datasets
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: RESPONSE: /give_answers
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: 17:47:13: {'progress': None}
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:47:13 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: DB: Initializing database SQLite
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: DB: Connecting to database SQLite
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: [{'id': 'དྲ_40.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_40.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=liC1hppT2PVNpGufhdpOz1N5mkw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1299923069, '_task_hash': -777618735, '_view_id': 'blocks', 'width': 115, 'height': 235, 'spans': [{'id': 'ad4a937b-d06e-462d-a421-93df5f9568a0', 'label': 'Base Line', 'color': 'yellow', 'x': 33.5, 'y': 90, 'height': 23, 'width': 32, 'center': [49.5, 101.5], 'type': 'rect', 'points': [[33.5, 90], [33.5, 113], [65.5, 113], [65.5, 90]]}, {'id': '6d308558-b884-41b7-b6ad-d215de1b49d0', 'label': 'Glyph', 'color': 'cyan', 'points': [[37.5, 138], [27.5, 124], [27.5, 81], [70.5, 83], [68.5, 129], [75.5, 174], [32.5, 162]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_40.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_40.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=liC1hppT2PVNpGufhdpOz1N5mkw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1299923069, '_task_hash': -777618735, '_view_id': 'blocks', 'width': 115, 'height': 235, 'spans': [{'id': 'ad4a937b-d06e-462d-a421-93df5f9568a0', 'label': 'Base Line', 'color': 'yellow', 'x': 33.5, 'y': 90, 'height': 23, 'width': 32, 'center': [49.5, 101.5], 'type': 'rect', 'points': [[33.5, 90], [33.5, 113], [65.5, 113], [65.5, 90]]}, {'id': '6d308558-b884-41b7-b6ad-d215de1b49d0', 'label': 'Glyph', 'color': 'cyan', 'points': [[37.5, 138], [27.5, 124], [27.5, 81], [70.5, 83], [68.5, 129], [75.5, 174], [32.5, 162]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: CONTROLLER: Receiving 1 answers
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: DB: Added 1 examples to 2 datasets
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: RESPONSE: /give_answers
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: 17:47:35: {'progress': None}
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:47:35 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: DB: Initializing database SQLite
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: DB: Connecting to database SQLite
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: [{'id': 'དྲ_41.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_41.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=ArxebiSFFPmdaljLQDde%2F7uGxOM%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1211081688, '_task_hash': 260014582, '_view_id': 'blocks', 'width': 139, 'height': 275, 'spans': [{'id': '457d9f14-240f-4934-9481-576287ec6f1e', 'label': 'Base Line', 'color': 'yellow', 'x': 59.5, 'y': 125, 'height': 34, 'width': 27, 'center': [73, 142], 'type': 'rect', 'points': [[59.5, 125], [59.5, 159], [86.5, 159], [86.5, 125]]}, {'id': '678d8e0e-b5a0-4ef4-b259-5e0353d38cac', 'label': 'Glyph', 'color': 'cyan', 'points': [[51.5, 115], [91.5, 117], [106.5, 204], [51.5, 191]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_41.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_41.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=ArxebiSFFPmdaljLQDde%2F7uGxOM%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1211081688, '_task_hash': 260014582, '_view_id': 'blocks', 'width': 139, 'height': 275, 'spans': [{'id': '457d9f14-240f-4934-9481-576287ec6f1e', 'label': 'Base Line', 'color': 'yellow', 'x': 59.5, 'y': 125, 'height': 34, 'width': 27, 'center': [73, 142], 'type': 'rect', 'points': [[59.5, 125], [59.5, 159], [86.5, 159], [86.5, 125]]}, {'id': '678d8e0e-b5a0-4ef4-b259-5e0353d38cac', 'label': 'Glyph', 'color': 'cyan', 'points': [[51.5, 115], [91.5, 117], [106.5, 204], [51.5, 191]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: CONTROLLER: Receiving 1 answers
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: DB: Added 1 examples to 2 datasets
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: RESPONSE: /give_answers
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: 17:47:50: {'progress': None}
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:47:50 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: DB: Initializing database SQLite
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: DB: Connecting to database SQLite
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: [{'id': 'དྲ_42.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_42.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=e73xHkvCwApzZLu3S0DE9u%2BHm0c%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 184421287, '_task_hash': -1170180476, '_view_id': 'blocks', 'width': 136, 'height': 267, 'answer': 'ignore'}]
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_42.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_42.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=e73xHkvCwApzZLu3S0DE9u%2BHm0c%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 184421287, '_task_hash': -1170180476, '_view_id': 'blocks', 'width': 136, 'height': 267, 'answer': 'ignore'}]
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: CONTROLLER: Receiving 1 answers
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: DB: Added 1 examples to 2 datasets
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: RESPONSE: /give_answers
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: 17:47:56: {'progress': None}
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:47:56 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.51:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: DB: Initializing database SQLite
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: DB: Connecting to database SQLite
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: [{'id': 'དྲ_43.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_43.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=bxIKSK6VE1ycgn7zCEAs9lFEYr4%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1948515816, '_task_hash': -1954531018, '_view_id': 'blocks', 'width': 120, 'height': 237, 'spans': [{'id': 'a234725f-3180-4a8f-8cf0-c971a09c9d1a', 'label': 'Base Line', 'color': 'yellow', 'x': 41, 'y': 96, 'height': 35, 'width': 29, 'center': [55.5, 113.5], 'type': 'rect', 'points': [[41, 96], [41, 131], [70, 131], [70, 96]]}, {'id': 'e27e8e58-d350-40d5-a14e-2df5b3805712', 'label': 'Glyph', 'color': 'cyan', 'points': [[22, 148], [36, 117], [35, 88], [71, 90], [76, 179], [26, 163]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_43.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_43.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=bxIKSK6VE1ycgn7zCEAs9lFEYr4%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': -1948515816, '_task_hash': -1954531018, '_view_id': 'blocks', 'width': 120, 'height': 237, 'spans': [{'id': 'a234725f-3180-4a8f-8cf0-c971a09c9d1a', 'label': 'Base Line', 'color': 'yellow', 'x': 41, 'y': 96, 'height': 35, 'width': 29, 'center': [55.5, 113.5], 'type': 'rect', 'points': [[41, 96], [41, 131], [70, 131], [70, 96]]}, {'id': 'e27e8e58-d350-40d5-a14e-2df5b3805712', 'label': 'Glyph', 'color': 'cyan', 'points': [[22, 148], [36, 117], [35, 88], [71, 90], [76, 179], [26, 163]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: CONTROLLER: Receiving 1 answers
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: DB: Added 1 examples to 2 datasets
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: RESPONSE: /give_answers
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: 17:48:13: {'progress': None}
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:48:13 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: DB: Initializing database SQLite
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: DB: Connecting to database SQLite
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: POST: /get_session_questions
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /get_session_questions
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: 17:48:14: {'tasks': [], 'total': 3009, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'tasks': [], 'total': 3009, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:14 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.135:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Initializing database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Connecting to database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Initializing database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Connecting to database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: POST: /get_session_questions
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /get_session_questions
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: [{'id': 'དྲ_44.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_44.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=VE0iMVKGPS0HzZxxKoD7TQCKriw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 842950747, '_task_hash': -1707863405, '_view_id': 'blocks', 'width': 128, 'height': 248, 'spans': [{'id': 'cbd18a6b-4663-4dd1-89cf-f3a92ddda7de', 'label': 'Base Line', 'color': 'yellow', 'x': 51, 'y': 103, 'height': 31, 'width': 29, 'center': [65.5, 118.5], 'type': 'rect', 'points': [[51, 103], [51, 134], [80, 134], [80, 103]]}, {'id': 'b20f7e3d-3d4b-43c2-9ac4-747068e0c164', 'label': 'Glyph', 'color': 'cyan', 'points': [[46, 95], [85, 96], [87, 138], [94, 182], [47, 172]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_44.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_44.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=VE0iMVKGPS0HzZxxKoD7TQCKriw%3D&Expires=1722823147', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 842950747, '_task_hash': -1707863405, '_view_id': 'blocks', 'width': 128, 'height': 248, 'spans': [{'id': 'cbd18a6b-4663-4dd1-89cf-f3a92ddda7de', 'label': 'Base Line', 'color': 'yellow', 'x': 51, 'y': 103, 'height': 31, 'width': 29, 'center': [65.5, 118.5], 'type': 'rect', 'points': [[51, 103], [51, 134], [80, 134], [80, 103]]}, {'id': 'b20f7e3d-3d4b-43c2-9ac4-747068e0c164', 'label': 'Glyph', 'color': 'cyan', 'points': [[46, 95], [85, 96], [87, 138], [94, 182], [47, 172]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: CONTROLLER: Receiving 1 answers
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: {'tasks': [], 'total': 3009, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'tasks': [], 'total': 3009, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: DB: Added 1 examples to 2 datasets
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: RESPONSE: /give_answers
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: 17:48:31: {'progress': None}
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:48:31 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.51:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Initializing database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Connecting to database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Initializing database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Connecting to database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: POST: /get_session_questions
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /get_session_questions
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: [{'id': 'དྲ_45.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_45.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=NdMJuNJ%2FFOIQQNgEj3esIKufkew%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1708009725, '_task_hash': -1110093665, '_view_id': 'blocks', 'width': 131, 'height': 259, 'spans': [{'id': 'e04afa69-048a-471e-a9a5-1796d73ea46b', 'label': 'Base Line', 'color': 'yellow', 'x': 48.5, 'y': 103, 'height': 24, 'width': 32, 'center': [64.5, 115], 'type': 'rect', 'points': [[48.5, 103], [48.5, 127], [80.5, 127], [80.5, 103]]}, {'id': '48da925e-c20c-4f32-ba59-7030200925ae', 'label': 'Glyph', 'color': 'cyan', 'points': [[45.5, 96], [85.5, 96], [83.5, 139], [87.5, 192], [44.5, 178], [42.5, 164]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_45.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_45.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=NdMJuNJ%2FFOIQQNgEj3esIKufkew%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1708009725, '_task_hash': -1110093665, '_view_id': 'blocks', 'width': 131, 'height': 259, 'spans': [{'id': 'e04afa69-048a-471e-a9a5-1796d73ea46b', 'label': 'Base Line', 'color': 'yellow', 'x': 48.5, 'y': 103, 'height': 24, 'width': 32, 'center': [64.5, 115], 'type': 'rect', 'points': [[48.5, 103], [48.5, 127], [80.5, 127], [80.5, 103]]}, {'id': '48da925e-c20c-4f32-ba59-7030200925ae', 'label': 'Glyph', 'color': 'cyan', 'points': [[45.5, 96], [85.5, 96], [83.5, 139], [87.5, 192], [44.5, 178], [42.5, 164]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: CONTROLLER: Receiving 1 answers
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: {'tasks': [], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'tasks': [], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: DB: Added 1 examples to 2 datasets
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: RESPONSE: /give_answers
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: 17:48:50: {'progress': None}
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:48:50 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.135:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Initializing database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Connecting to database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Initializing database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Connecting to database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_gb-tenphuns@gmail.com')
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: POST: /get_session_questions
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /get_session_questions
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: [{'id': 'དྲ_46.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_46.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EycFlY2ynx%2BbQ8L8VcUtbiK%2BzgI%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1723115088, '_task_hash': -1125060543, '_view_id': 'blocks', 'width': 75, 'height': 205, 'answer': 'ignore'}]
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:[{'id': 'དྲ_46.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%91%E0%BE%B2/%E0%BD%91%E0%BE%B2_46.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EycFlY2ynx%2BbQ8L8VcUtbiK%2BzgI%3D&Expires=1722823319', 'html': "<p style='font-size: 10em;'>དྲ</p>", '_input_hash': 1723115088, '_task_hash': -1125060543, '_view_id': 'blocks', 'width': 75, 'height': 205, 'answer': 'ignore'}]
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: CONTROLLER: Receiving 1 answers
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: {'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:Controller: received answers for session glyph_annotation_gb-tenphuns@gmail.com: 1
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.135:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb'
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_gb-tenphuns@gmail.com'
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: DB: Added 1 examples to 2 datasets
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_gb' in database SQLite
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: RESPONSE: /give_answers
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /give_answers
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: 17:48:54: {'progress': None}
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'progress': None}
+Aug 06 17:48:54 ip-172-31-85-61 line to text[817981]: INFO:     172.70.218.134:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 06 17:50:00 ip-172-31-85-61 line to text[817981]: INFO:     172.69.86.42:0 - "GET /?session=tenphuns@gmail.com HTTP/1.1" 200 OK
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: DB: Initializing database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: DB: Connecting to database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:     172.69.86.42:0 - "GET /project/tenphuns%40gmail.com HTTP/1.1" 200 OK
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: DB: Initializing database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: DB: Connecting to database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: POST: /get_session_questions
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /get_session_questions
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenphuns@gmail.com
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: 17:50:01: {'tasks': [], 'total': 3012, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'tasks': [], 'total': 3012, 'progress': None, 'session_id': 'glyph_annotation_gb-tenphuns@gmail.com'}
+Aug 06 17:50:01 ip-172-31-85-61 line to text[817981]: INFO:     172.69.86.42:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 06:15:45 ip-172-31-85-61 line to text[817981]: INFO:     172.69.95.24:0 - "GET /?session=wpema76@gmail.com HTTP/1.1" 200 OK
+Aug 07 06:16:07 ip-172-31-85-61 line to text[817981]: INFO:     172.69.95.75:0 - "GET /bundle.js HTTP/1.1" 200 OK
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: 06:16:13: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: 06:16:13: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: 06:16:13: DB: Initializing database SQLite
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: 06:16:13: DB: Connecting to database SQLite
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 06:16:13 ip-172-31-85-61 line to text[817981]: INFO:     172.69.94.118:0 - "GET /project/wpema76%40gmail.com HTTP/1.1" 200 OK
+Aug 07 15:51:21 ip-172-31-85-61 line to text[817981]: INFO:     172.71.182.33:0 - "GET /?session=tenzinkals11@gmail.com HTTP/1.1" 200 OK
+Aug 07 15:51:22 ip-172-31-85-61 line to text[817981]: INFO:     172.71.182.20:0 - "GET /bundle.js HTTP/1.1" 200 OK
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: 15:51:23: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: 15:51:23: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: 15:51:23: DB: Initializing database SQLite
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: 15:51:23: DB: Connecting to database SQLite
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:     172.71.98.54:0 - "GET /project/tenzinkals11%40gmail.com HTTP/1.1" 200 OK
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:     172.71.98.162:0 - "GET /lato-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:     172.71.98.11:0 - "GET /robotocondensed-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 15:51:23 ip-172-31-85-61 line to text[817981]: INFO:     172.71.98.234:0 - "GET /lato-regular.woff2 HTTP/1.1" 200 OK
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_gb.json
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: DB: Initializing database SQLite
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: DB: Connecting to database SQLite
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: POST: /get_session_questions
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:POST: /get_session_questions
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenzinkals11@gmail.com
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_gb-tenzinkals11@gmail.com
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: RESPONSE: /get_session_questions (0 examples)
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: 15:51:24: {'tasks': [], 'total': 3012, 'progress': None, 'session_id': 'glyph_annotation_gb-tenzinkals11@gmail.com'}
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:prodigy:{'tasks': [], 'total': 3012, 'progress': None, 'session_id': 'glyph_annotation_gb-tenzinkals11@gmail.com'}
+Aug 07 15:51:24 ip-172-31-85-61 line to text[817981]: INFO:     172.71.98.54:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 08 04:42:31 ip-172-31-85-61 systemd[1]: Stopping Prodigy for glyph annotation...
+Aug 08 04:42:31 ip-172-31-85-61 line to text[817981]: INFO:     Shutting down
+Aug 08 04:42:31 ip-172-31-85-61 line to text[817981]: INFO:uvicorn.error:Shutting down
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: INFO:     Waiting for application shutdown.
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: INFO:uvicorn.error:Waiting for application shutdown.
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: INFO:     Application shutdown complete.
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: INFO:uvicorn.error:Application shutdown complete.
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: INFO:     Finished server process [817981]
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: INFO:uvicorn.error:Finished server process [817981]
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: 04:42:32: DB: Saving database
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: INFO:prodigy:DB: Saving database
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: ✔ Saved 3012 annotations to database SQLite
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: Dataset: glyph_annotation_gb
+Aug 08 04:42:32 ip-172-31-85-61 line to text[817981]: Session ID: 2023-08-04_06-48-35
+Aug 08 04:42:32 ip-172-31-85-61 systemd[1]: prodigy_glyph_annotation_gb.service: Succeeded.
+Aug 08 04:42:32 ip-172-31-85-61 systemd[1]: Stopped Prodigy for glyph annotation.
+Aug 08 04:42:32 ip-172-31-85-61 systemd[1]: prodigy_glyph_annotation_gb.service: Consumed 8min 41.159s CPU time.

@@ -1,0 +1,268 @@
+-- Journal begins at Sun 2023-08-06 16:24:14 UTC, ends at Tue 2023-08-08 05:38:38 UTC. --
+Aug 07 04:22:53 ip-172-31-85-61 line to text[817937]: INFO:     162.158.110.74:0 - "GET /?session=dakung132@gmail.com HTTP/1.1" 200 OK
+Aug 07 04:22:54 ip-172-31-85-61 line to text[817937]: INFO:     162.158.111.86:0 - "GET /bundle.js HTTP/1.1" 200 OK
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: 04:22:56: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: 04:22:56: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: 04:22:56: DB: Initializing database SQLite
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: 04:22:56: DB: Connecting to database SQLite
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:     172.70.250.224:0 - "GET /project/dakung132%40gmail.com HTTP/1.1" 200 OK
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:     172.70.251.8:0 - "GET /robotocondensed-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:     172.70.250.224:0 - "GET /lato-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 04:22:56 ip-172-31-85-61 line to text[817937]: INFO:     172.70.250.169:0 - "GET /lato-regular.woff2 HTTP/1.1" 200 OK
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: DB: Initializing database SQLite
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: DB: Connecting to database SQLite
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: POST: /get_session_questions
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-dakung132@gmail.com
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-dakung132@gmail.com
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: RESPONSE: /get_session_questions (1 examples)
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (1 examples)
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: 04:22:57: {'tasks': [{'id': 'ཅ_93.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%85/%E0%BD%85_93.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EARolEhi6PPqDlOUcU1RO2lTn9c%3D&Expires=1722766218', 'html': "<p style='font-size: 10em;'>ཅ</p>", '_input_hash': 461363882, '_task_hash': -24332998, '_view_id': 'blocks'}], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_ga-dakung132@gmail.com'}
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [{'id': 'ཅ_93.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%85/%E0%BD%85_93.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EARolEhi6PPqDlOUcU1RO2lTn9c%3D&Expires=1722766218', 'html': "<p style='font-size: 10em;'>ཅ</p>", '_input_hash': 461363882, '_task_hash': -24332998, '_view_id': 'blocks'}], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_ga-dakung132@gmail.com'}
+Aug 07 04:22:57 ip-172-31-85-61 line to text[817937]: INFO:     172.70.250.224:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 04:25:33 ip-172-31-85-61 line to text[817937]: INFO:     172.70.188.53:0 - "GET /?session=tsedhak123@gmail.com HTTP/1.1" 200 OK
+Aug 07 04:25:34 ip-172-31-85-61 line to text[817937]: INFO:     172.70.188.80:0 - "GET /bundle.js HTTP/1.1" 200 OK
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: 04:25:38: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: 04:25:38: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: 04:25:38: DB: Initializing database SQLite
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: 04:25:38: DB: Connecting to database SQLite
+Aug 07 04:25:38 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:     172.70.147.170:0 - "GET /project/tsedhak123%40gmail.com HTTP/1.1" 200 OK
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:     172.70.92.152:0 - "GET /robotocondensed-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:     172.70.147.144:0 - "GET /lato-regular.woff2 HTTP/1.1" 200 OK
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:     172.70.147.3:0 - "GET /lato-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: DB: Initializing database SQLite
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: DB: Connecting to database SQLite
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: POST: /get_session_questions
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: RESPONSE: /get_session_questions (0 examples)
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: 04:25:39: {'tasks': [], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 04:25:39 ip-172-31-85-61 line to text[817937]: INFO:     172.70.147.170:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Initializing database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Connecting to database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Initializing database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Connecting to database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: POST: /give_answers (received 1, session ID 'glyph_annotation_ga-dakung132@gmail.com')
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /give_answers (received 1, session ID 'glyph_annotation_ga-dakung132@gmail.com')
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: POST: /get_session_questions
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-dakung132@gmail.com
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-dakung132@gmail.com
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: [{'id': 'ཅ_93.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%85/%E0%BD%85_93.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EARolEhi6PPqDlOUcU1RO2lTn9c%3D&Expires=1722766218', 'html': "<p style='font-size: 10em;'>ཅ</p>", '_input_hash': 461363882, '_task_hash': -24332998, '_view_id': 'blocks', 'width': 128, 'height': 252, 'spans': [{'id': 'b846adf9-53b2-4047-8b07-942cb641083d', 'label': 'Base Line', 'color': 'yellow', 'x': 54, 'y': 101, 'height': 27, 'width': 21, 'center': [64.5, 114.5], 'type': 'rect', 'points': [[54, 101], [54, 128], [75, 128], [75, 101]]}, {'id': '4cc8e065-43c2-4572-99bf-374637b7fabc', 'label': 'Glyph', 'color': 'cyan', 'points': [[52, 99], [85, 98], [82, 124], [78, 136], [89, 150], [59, 168], [39, 131], [51, 114]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:[{'id': 'ཅ_93.png', 'image': 'https://s3.amazonaws.com/monlam.ai.ocr/glyph/W1KG13126/%E0%BD%85/%E0%BD%85_93.png?AWSAccessKeyId=AKIAVOHRWKIEGIGHE4E5&Signature=EARolEhi6PPqDlOUcU1RO2lTn9c%3D&Expires=1722766218', 'html': "<p style='font-size: 10em;'>ཅ</p>", '_input_hash': 461363882, '_task_hash': -24332998, '_view_id': 'blocks', 'width': 128, 'height': 252, 'spans': [{'id': 'b846adf9-53b2-4047-8b07-942cb641083d', 'label': 'Base Line', 'color': 'yellow', 'x': 54, 'y': 101, 'height': 27, 'width': 21, 'center': [64.5, 114.5], 'type': 'rect', 'points': [[54, 101], [54, 128], [75, 128], [75, 101]]}, {'id': '4cc8e065-43c2-4572-99bf-374637b7fabc', 'label': 'Glyph', 'color': 'cyan', 'points': [[52, 99], [85, 98], [82, 124], [78, 136], [89, 150], [59, 168], [39, 131], [51, 114]], 'type': 'polygon'}], 'answer': 'accept'}]
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: RESPONSE: /get_session_questions (0 examples)
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: {'tasks': [], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_ga-dakung132@gmail.com'}
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [], 'total': 3010, 'progress': None, 'session_id': 'glyph_annotation_ga-dakung132@gmail.com'}
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:     162.158.94.143:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: CONTROLLER: Receiving 1 answers
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Receiving 1 answers
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: Controller: received answers for session glyph_annotation_ga-dakung132@gmail.com: 1
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:Controller: received answers for session glyph_annotation_ga-dakung132@gmail.com: 1
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Found unstructured dataset 'glyph_annotation_ga-dakung132@gmail.com'
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_ga-dakung132@gmail.com'
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Found unstructured dataset 'glyph_annotation_ga'
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_ga'
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Found unstructured dataset 'glyph_annotation_ga-dakung132@gmail.com'
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Found unstructured dataset 'glyph_annotation_ga-dakung132@gmail.com'
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: DB: Added 1 examples to 2 datasets
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Added 1 examples to 2 datasets
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: CONTROLLER: Added 1 answers to dataset 'glyph_annotation_ga' in database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Added 1 answers to dataset 'glyph_annotation_ga' in database SQLite
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: RESPONSE: /give_answers
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /give_answers
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: 04:26:14: {'progress': None}
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'progress': None}
+Aug 07 04:26:14 ip-172-31-85-61 line to text[817937]: INFO:     162.158.94.142:0 - "POST /give_answers HTTP/1.1" 200 OK
+Aug 07 04:26:29 ip-172-31-85-61 line to text[817937]: INFO:     162.158.94.143:0 - "GET /?session=dakung132@gmail.com HTTP/1.1" 200 OK
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: DB: Initializing database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: DB: Connecting to database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:     162.158.94.142:0 - "GET /project/dakung132%40gmail.com HTTP/1.1" 200 OK
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: DB: Initializing database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: DB: Connecting to database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: POST: /get_session_questions
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-dakung132@gmail.com
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-dakung132@gmail.com
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: 04:26:30: RESPONSE: /get_session_questions (0 examples)
+Aug 07 04:26:30 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 04:26:31 ip-172-31-85-61 line to text[817937]: 04:26:30: {'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-dakung132@gmail.com'}
+Aug 07 04:26:31 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-dakung132@gmail.com'}
+Aug 07 04:26:31 ip-172-31-85-61 line to text[817937]: INFO:     162.158.94.143:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 05:31:56 ip-172-31-85-61 line to text[817937]: INFO:     108.162.227.149:0 - "GET /?session=tsedhak123@gmail.com HTTP/1.1" 200 OK
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: 05:31:57: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: 05:31:57: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: 05:31:57: DB: Initializing database SQLite
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: 05:31:57: DB: Connecting to database SQLite
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 05:31:57 ip-172-31-85-61 line to text[817937]: INFO:     108.162.227.149:0 - "GET /project/tsedhak123%40gmail.com HTTP/1.1" 200 OK
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: DB: Initializing database SQLite
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: DB: Connecting to database SQLite
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: POST: /get_session_questions
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: RESPONSE: /get_session_questions (0 examples)
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: 05:31:58: {'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 05:31:58 ip-172-31-85-61 line to text[817937]: INFO:     108.162.227.6:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 07:57:53 ip-172-31-85-61 line to text[817937]: INFO:     172.70.188.19:0 - "GET /?session=tsedhak123@gmail.com HTTP/1.1" 200 OK
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: DB: Initializing database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: DB: Connecting to database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:     172.70.189.159:0 - "GET /project/tsedhak123%40gmail.com HTTP/1.1" 200 OK
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: DB: Initializing database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: DB: Connecting to database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: POST: /get_session_questions
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: RESPONSE: /get_session_questions (0 examples)
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: 07:57:54: {'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 07:57:54 ip-172-31-85-61 line to text[817937]: INFO:     172.70.189.159:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 10:12:45 ip-172-31-85-61 line to text[817937]: INFO:     108.162.226.233:0 - "GET /?session=tsedhak123@gmail.com HTTP/1.1" 200 OK
+Aug 07 10:12:45 ip-172-31-85-61 line to text[817937]: INFO:     108.162.226.243:0 - "GET /bundle.js HTTP/1.1" 200 OK
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: DB: Initializing database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: DB: Connecting to database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:     108.162.226.110:0 - "GET /project/tsedhak123%40gmail.com HTTP/1.1" 200 OK
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:     108.162.227.146:0 - "GET /lato-regular.woff2 HTTP/1.1" 200 OK
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:     108.162.227.37:0 - "GET /lato-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:     108.162.226.90:0 - "GET /robotocondensed-bold.woff2 HTTP/1.1" 200 OK
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: DB: Initializing database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: DB: Connecting to database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: POST: /get_session_questions
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: RESPONSE: /get_session_questions (0 examples)
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: 10:13:21: {'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 10:13:21 ip-172-31-85-61 line to text[817937]: INFO:     108.162.226.110:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: INFO:     162.158.106.227:0 - "GET /?session=tsedhak123@gmail.com HTTP/1.1" 200 OK
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: 12:52:18: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: 12:52:18: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: 12:52:18: DB: Initializing database SQLite
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: 12:52:18: DB: Connecting to database SQLite
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 12:52:18 ip-172-31-85-61 line to text[817937]: INFO:     162.158.106.227:0 - "GET /project/tsedhak123%40gmail.com HTTP/1.1" 200 OK
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONFIG: Using config from PRODIGY_CONFIG env var
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: /usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:/usr/local/prodigy/prodigy-tools/configuration/glyph_annotation_ga.json
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: DB: Initializing database SQLite
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Initializing database SQLite
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: DB: Connecting to database SQLite
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Connecting to database SQLite
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: POST: /get_session_questions
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:POST: /get_session_questions
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:CONTROLLER: Getting batch of questions for session: glyph_annotation_ga-tsedhak123@gmail.com
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: RESPONSE: /get_session_questions (0 examples)
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:RESPONSE: /get_session_questions (0 examples)
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: 12:52:19: {'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:prodigy:{'tasks': [], 'total': 3011, 'progress': None, 'session_id': 'glyph_annotation_ga-tsedhak123@gmail.com'}
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:     162.158.106.227:0 - "POST /get_session_questions HTTP/1.1" 200 OK
+Aug 07 12:52:19 ip-172-31-85-61 line to text[817937]: INFO:     162.158.106.227:0 - "GET /lato-regular.woff2 HTTP/1.1" 200 OK
+Aug 08 04:42:26 ip-172-31-85-61 systemd[1]: Stopping Prodigy for glyph annotation ga...
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:     Shutting down
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:uvicorn.error:Shutting down
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:     Waiting for application shutdown.
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:uvicorn.error:Waiting for application shutdown.
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:     Application shutdown complete.
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:uvicorn.error:Application shutdown complete.
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:     Finished server process [817937]
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:uvicorn.error:Finished server process [817937]
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: 04:42:26: DB: Saving database
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: INFO:prodigy:DB: Saving database
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: ✔ Saved 3011 annotations to database SQLite
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: Dataset: glyph_annotation_ga
+Aug 08 04:42:26 ip-172-31-85-61 line to text[817937]: Session ID: 2023-08-04_06-48-14
+Aug 08 04:42:27 ip-172-31-85-61 systemd[1]: prodigy_glyph_annotation_ga.service: Succeeded.
+Aug 08 04:42:27 ip-172-31-85-61 systemd[1]: Stopped Prodigy for glyph annotation ga.
+Aug 08 04:42:27 ip-172-31-85-61 systemd[1]: prodigy_glyph_annotation_ga.service: Consumed 8min 39.789s CPU time.
